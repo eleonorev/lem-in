@@ -1,0 +1,15 @@
+3
+##start
+patates 0 1
+##end
+end 1 0
+0 0 0
+1 1 1
+0-1
+0-1
+end-0
+1-0
+patates-end
+0-end
+blop-0
+blop-1
